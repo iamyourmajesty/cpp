@@ -12,5 +12,6 @@ int main()
     cout<<"Leap year";
     else
     cout<<"NOt a leap year";
+    
     return 0;
 }
